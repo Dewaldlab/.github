@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the organization for the Dewaldlab at PTHMS. Here we store code related to all the different labs, projects, utlities, etc. If you have questions, contact one of the owners (currently Thomas, Ahalya, and Ana Maria).
+This is the organization for the Dewaldlab at PTHMS. Here we store code related to all the different labs, projects, utlities, etc. If you have questions, contact one of the admins (currently Thomas, Ahalya, and Ana Maria).
 <!--
 
 **Here are some ideas to get you started:**
